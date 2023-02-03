@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/javanode/static/css/main.c2cab247.css",
-    "main.js": "/javanode/static/js/main.5f9e77da.js",
+    "main.js": "/javanode/static/js/main.301a7663.js",
     "static/media/imagenInicio.jpg": "/javanode/static/media/imagenInicio.a6eb26a871e6308529e9.jpg",
     "index.html": "/javanode/index.html",
     "main.c2cab247.css.map": "/javanode/static/css/main.c2cab247.css.map",
-    "main.5f9e77da.js.map": "/javanode/static/js/main.5f9e77da.js.map"
+    "main.301a7663.js.map": "/javanode/static/js/main.301a7663.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.5f9e77da.js"
+    "static/js/main.301a7663.js"
   ]
 }
