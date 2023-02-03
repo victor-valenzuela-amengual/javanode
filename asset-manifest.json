@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/javanode/static/css/main.c2cab247.css",
+    "main.js": "/javanode/static/js/main.5f9e77da.js",
+    "static/media/imagenInicio.jpg": "/javanode/static/media/imagenInicio.a6eb26a871e6308529e9.jpg",
+    "index.html": "/javanode/index.html",
+    "main.c2cab247.css.map": "/javanode/static/css/main.c2cab247.css.map",
+    "main.5f9e77da.js.map": "/javanode/static/js/main.5f9e77da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.5f9e77da.js"
+  ]
+}
