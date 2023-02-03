@@ -1,23 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
-
+import imgInicio from "./assets/img/imagenInicio.jpg";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container-fluid d-flex bg-dark border border-danger border-5">
+      <div className="mt-5 mb-5 object-fit-contain 
+        rounded mx-auto position-relative text-light">
+        <img className="" src={imgInicio} alt="react star"></img>
+        <div className="position-absolute top-0 start-0 mt-5 ms-5 translate-middle"><h1>NODE.JS</h1></div>
+        <div className="position-absolute top-50 start-50 translate-middle"><h1>GIT.HUB</h1></div>
+        <div className="position-absolute bottom-0 start-100 me-5 pe-5 translate-middle"><h1>REACT.JS</h1></div>
+        <div className="position-absolute bottom-50 start-50 pt-3 translate-middle"><h1>NPM.SCR</h1></div> 
+        
+      </div>      
     </div>
   );
 }
